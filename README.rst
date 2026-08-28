@@ -32,7 +32,8 @@ Features
     @inv("<msg>", lambda self: ...)
 
     @typed
-    def <f>(<var>: <T>) -> <T>: ...
+    def <f>(<var>: <T>) -> <T>:
+        ...
 
     @raises(<Exception>)
 
